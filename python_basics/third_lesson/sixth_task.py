@@ -6,4 +6,3 @@ def int_func(l):
 words = input("Enter some words separated by spaces ").split()
 for i in words:
     print(int_func(i), end=" ")
-
