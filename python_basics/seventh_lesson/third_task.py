@@ -50,3 +50,4 @@ print(first_cells * second_cells)
 print(first_cells / second_cells)
 a = first_cells * second_cells
 print(a.make_order(7))
+print(a.string)
